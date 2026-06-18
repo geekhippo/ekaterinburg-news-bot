@@ -1,0 +1,7 @@
+{
+  "sources": [
+    {"name": "itsmycity", "url": "https://www.itsmycity.ru/", "parser": "html"},
+    {"name": "obltv", "url": "https://obltv.ru/news/", "parser": "html"},
+    {"name": "justmedia", "url": "https://justmedia.ru/news/", "parser": "html"}
+  ]
+}
